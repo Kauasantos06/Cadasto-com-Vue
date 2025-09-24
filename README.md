@@ -1,29 +1,51 @@
-# formCadastro
+# Formulário de Cadastro Simples com Vue.js e Vite
 
-This template should help get you started developing with Vue 3 in Vite.
+Uma aplicação web simples, moderna e responsiva, construída com **Vue.js** e **Vite**, que demonstra um formulário de cadastro funcional. O projeto foca em uma interface limpa e intuitiva, ideal para fins de estudo e como base para projetos maiores.
 
-## Recommended IDE Setup
+<img width="700" height="725" alt="git" src="https://github.com/user-attachments/assets/266d8e7e-2a60-4d9a-8f10-e70d897f1833" />
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Funcionalidades
 
-## Customize configuration
+* **Interface Limpa e Intuitiva:** Design minimalista e direto ao ponto para uma experiência de usuário eficiente.
+* **Componentização com Vue:** O formulário é um componente Vue reutilizável, construído com a Composition API e a sintaxe `<script setup>`.
+* **Validação de Formulário:** Demonstra a lógica básica de validação para garantir que todos os campos sejam preenchidos.
+* **Estilo Responsivo:** O layout do formulário se adapta a diferentes tamanhos de tela.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🛠️ Tecnologias Utilizadas
 
-## Project Setup
+* **Vue.js:** Framework reativo para construção de interfaces.
+* **Vite:** Ferramenta de build de nova geração, focada em velocidade.
+* **HTML5:** Estrutura semântica do formulário.
+* **CSS3:** Estilização do layout com Flexbox.
 
-```sh
-npm install
-```
+## 🚀 Como Usar
 
-### Compile and Hot-Reload for Development
+Siga os passos abaixo para clonar o repositório e rodar a aplicação em seu ambiente local.
 
-```sh
-npm run dev
-```
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_SEU_REPOSITORIO.git)
+    ```
 
-### Compile and Minify for Production
+2.  **Entre na pasta do projeto:**
+    ```bash
+    cd NOME_DO_SEU_REPOSITORIO
+    ```
 
-```sh
-npm run build
-```
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
+
+4.  **Execute o projeto:**
+    ```bash
+    npm run dev
+    ```
+
+A aplicação estará disponível em `http://localhost:5173/`.
+
+---
+
+## 📄 Licença
+
+Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
